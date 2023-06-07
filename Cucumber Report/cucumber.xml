@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="42.196" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="" name="Validate the Search box with valid data - Example #1.1" time="42.033">
+<system-out><![CDATA[
+Given chrome is opened and opencart app is opened...........................passed
+When user clicks on blog page link..........................................passed
+Then user navigate to blog page.............................................passed
+When user clicks on search box..............................................passed
+And user fills the data from given sheetname "Sheet1"  and rownumber 0......passed
+And press enter button......................................................passed
+Then it shows that particular article.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

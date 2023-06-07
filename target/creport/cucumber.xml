@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="65.396" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Blog" name="Validate user navigate on to blog" time="8.797">
+<system-out><![CDATA[
+Given chrome is opened and opencart app is opened...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Blog" name="Validate blog page UI" time="28.315">
+<system-out><![CDATA[
+Given chrome is opened and opencart app is opened...........................passed
+When user click on the blog.................................................passed
+Then user navigate to blog page.............................................passed
+Then user able to see different articles....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Blog" name=" - Example #1.1" time="28.124">
+<system-out><![CDATA[
+Given chrome is opened and opencart app is opened...........................passed
+When user click on the blog.................................................passed
+Then user navigate to blog page.............................................passed
+And user able to see different articles.....................................passed
+When user clicks on search box..............................................passed
+And user enter the "cloud accounting" in search box.........................passed
+And press enter button......................................................passed
+Then it shows that particular article.......................................passed
+When user click on continue reading button of particular article............passed
+Then user able to see whole article.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
