@@ -37,9 +37,9 @@
 		</dependency>
 		
 		<dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-testng</artifactId>
-    <version>7.12.0</version>
+<groupId>io.cucumber</groupId>
+<artifactId>cucumber-testng</artifactId>
+<version>7.12.0</version>
 </dependency>
 		
 	

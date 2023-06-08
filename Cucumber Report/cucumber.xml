@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="42.196" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="" name="Validate the Search box with valid data - Example #1.1" time="42.033">
+<testsuite name="Cucumber" time="24.905" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="" name="Validate the Search box with valid data - Example #1.1" time="24.895">
 <system-out><![CDATA[
 Given chrome is opened and opencart app is opened...........................passed
 When user clicks on blog page link..........................................passed

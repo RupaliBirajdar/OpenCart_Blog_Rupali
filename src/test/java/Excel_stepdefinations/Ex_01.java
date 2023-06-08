@@ -1,4 +1,4 @@
-package Ex_04_Excel_stepdefinations;
+package Excel_stepdefinations;
 
 import static org.testng.Assert.assertEquals;
 
@@ -23,7 +23,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 
-public class Ex_04 extends Utility
+public class Ex_01 extends Utility
 {
 	
 	public LandingPage ldp;
